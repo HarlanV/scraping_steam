@@ -1,4 +1,3 @@
-# Importando as bibliotecas necessárias
 from bs4 import BeautifulSoup, Tag
 import pandas as pd
 from datetime import datetime, timedelta
