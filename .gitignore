@@ -1,0 +1,6 @@
+.env
+*.html
+*__pycache__/
+*xlsx
+chave-bq.json
+*.env*
